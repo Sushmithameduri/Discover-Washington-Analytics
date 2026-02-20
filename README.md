@@ -110,7 +110,8 @@ Each section followed a consistent three-tier structure:
 
 3. **Individual Post** — Detailed guide for a specific attraction, including hero image, structured sections, embedded maps, and references
 
-<img width="591" height="630" alt="image" src="https://github.com/user-attachments/assets/450543dc-8198-4f3e-bbcf-d8923ed7ca88" />
+<img width="298" height="682" alt="image" src="https://github.com/user-attachments/assets/fb7f393b-2678-4444-9e38-4dbf5283ebcf" />
+
 
 
 ---
@@ -183,8 +184,6 @@ The site drew inspiration from leading travel platforms:
 
 ## Analytics & KPIs
 
-The site used Google Analytics 4 (GA4) with a custom Google Looker Studio dashboard to track performance against five defined goals.
-
 ### KPI Framework
 
 | # | Goal | KPI | Metric |
@@ -195,39 +194,128 @@ The site used Google Analytics 4 (GA4) with a custom Google Looker Studio dashbo
 | 4 | Ensure Consistent Access | Returning Visitor Rate | % Returning Users |
 | 5 | Validate Navigation Clarity | Bounce Rate | Bounce Rate |
 
-### Looker Studio Dashboard
+---
 
-The Google Looker Studio report included four panels:
+### 📊 Looker Studio Dashboard
 
-1. **Top Viewed Guides** — Page-level view counts to identify most popular content
-2. **User Engagement Chart** — Time-series of average session duration vs. views per session
-3. **New vs. Returning Users Pie Chart** — Audience retention overview
-4. **Daily Active Visitors Line Chart** — Day-over-day traffic trends (March 12–18, 2025)
 
-> 📊 Dashboard : <img width="905" height="679" alt="image" src="https://github.com/user-attachments/assets/b9175f6d-9153-4258-b71c-f9ba1b6afbc8" />
+<img width="904" height="677" alt="image" src="https://github.com/user-attachments/assets/26fcc2b1-c2d1-4c9c-b6c3-348a9daa56e1" />
 
-### Key Metrics (Phase 3 Reporting Period)
+
+---
+
+### 📈 Growth Metrics (Phase 3)
 
 | Metric | Value |
 |---|---|
-| Total Page Views | 958 |
-| Most Viewed Page | Discover Washington Homepage (384 views) |
-| Average Time on Site | 8 min 59 sec |
-| Bounce Rate | 38% |
-| Daily Active Users (recent week) | ~5 |
-| New vs. Returning Split | 33.3% / 33.3% / 33.3% |
-| Peak Views per Session | 8.32 (March 10, 2025) |
-| Active User Growth | +82.4% |
-| New User Growth | +66.7% |
-| Event Count Growth | +26.5% (946 events) |
+| 📈 Active User Growth | **+82.4%** (reached 31 users in 7 days) |
+| 👤 New User Growth | **+66.7%** |
+| ⚡ Event Count Growth | **+26.5%** (946 recorded events) |
+| ⏱️ Avg. Time on Site | **8 min 59 sec** |
+| 🔁 Bounce Rate | **38%** |
+| 👁️ Total Page Views | **958** |
+| 📅 Peak Views/Session | **8.32** (March 10, 2025) |
 
-### Traffic Patterns
 
-- **Peak day:** Thursday (13 users), followed by Sunday (11) and Saturday (10)
-- **Lowest traffic:** Tuesday (1 user)
-- **Browser breakdown:** Chrome ~80%, Edge and Safari minimal
-- **Publishing strategy:** Content published Wed/Thu to index before peak weekend traffic
+<img width="723" height="353" alt="image" src="https://github.com/user-attachments/assets/444007fe-b24f-48c0-98b1-1f87b29c4593" />
 
+---
+
+### 🔥 GA4 Dashboard
+
+<img width="690" height="352" alt="image" src="https://github.com/user-attachments/assets/3e461e00-7e55-4e4f-82c2-a403112ee2ac" />
+
+---
+
+### 📄 Top Pages by Views
+
+| Page | Views | Events |
+|---|---|---|
+| Discover Washington – Homepage | 299 | 774 |
+| Chihuly Garden and Glass | 65 | 123 |
+| Nature & Adventure | 44 | 90 |
+| Mount Rainier National Park | 28 | 60 |
+| Pike Place Market | 22 | 50 |
+| IS5320-T4 | 21 | 52 |
+| Washington's Universities | 19 | — |
+| Olympic National Park | 13 | — |
+
+---
+
+### ⏱️ Per-Page Engagement Time
+
+| Page | Active Users | Avg. Engagement | Views |
+|---|---|---|---|
+| Discover Washington (Home) | 39 | 36s | 299 |
+| Nature & Adventure | 8 | 16s | 44 |
+| Pike Place Market | 7 | 10s | 22 |
+| Hiking at Rattlesnake Ledge | 6 | 38s | 15 |
+| Mission Statement | 6 | 10s | 18 |
+| Mount Rainier National Park | 6 | 29s | 28 |
+| Chihuly Garden and Glass | 6 | 18s | 65 |
+| Celebrate the Seasons | 5 | 29s | 6 |
+| IS5320-T4 | 5 | **1m 52s** | 21 |
+
+<img width="794" height="347" alt="image" src="https://github.com/user-attachments/assets/ac561d75-4606-4f28-91b8-8252a22418b3" />
+
+
+---
+
+### 📅 Traffic by Day of Week
+
+| Day | Users | Traffic Level |
+|---|---|---|
+| Thursday | 13 | 🔥🔥🔥 Peak |
+| Sunday | 11 | 🔥🔥🔥 High |
+| Saturday | 10 | 🔥🔥🔥 High |
+| Friday | 6 | 🔥🔥 Medium |
+| Wednesday | 5 | 🔥🔥 Medium |
+| Monday | 3 | 🔥 Low |
+| Tuesday | 1 | ⬇️ Lowest |
+
+> **Strategy:** New content was published on **Wednesdays & Thursdays** to index before the weekend traffic surge.
+
+<img width="292" height="321" alt="image" src="https://github.com/user-attachments/assets/ec476d6b-067d-4a89-814e-9edb61a90e7f" />
+
+---
+
+### 🌐 Browser Usage
+
+| Browser | Users |
+|---|---|
+| Chrome | ~25–30 (~80%) |
+| Edge | Minimal |
+| Safari | Minimal |
+
+> **Impact:** Chrome optimization was prioritized in all design and testing decisions.
+
+<img width="269" height="304" alt="image" src="https://github.com/user-attachments/assets/ac8a6efc-433e-446a-97f1-0641484001e3" />
+
+---
+
+### 👥 User Activity Over Time
+
+```
+30 days  ████████████████████████  42 users
+ 7 days  ███████████████           31 users
+  1 day  ██                         3 users
+```
+<img width="329" height="208" alt="image" src="https://github.com/user-attachments/assets/3162c790-f38c-4fd8-96ac-21748897f636" />
+
+
+---
+
+### 🔄 New vs. Returning Users
+
+| Segment | Share |
+|---|---|
+| New | 33.3% |
+| Returning | 33.3% |
+| Not Set | 33.3% |
+
+<img width="174" height="167" alt="image" src="https://github.com/user-attachments/assets/0bd36c8f-cc55-4b08-877d-ff249d542209" />
+
+---
 ---
 
 ## Development Phases
