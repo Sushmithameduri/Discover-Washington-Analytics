@@ -31,7 +31,6 @@
 - [Development Phases](#development-phases)
 - [WordPress Plugins Used](#wordpress-plugins-used)
 - [Server Infrastructure](#server-infrastructure)
-- [Key Metrics Summary](#key-metrics-summary)
 - [Lessons Learned & Future Work](#lessons-learned--future-work)
 
 ---
@@ -329,4 +328,3 @@ The Google Looker Studio report included four panels:
 
 ---
 
-*Built with ❤️ by Team 4 — IS5320 Web Analytics Course*
