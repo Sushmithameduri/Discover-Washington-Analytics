@@ -34,6 +34,7 @@ To measure the platform's success, I established a structured problem-solving fr
 
 ## 📊 Analytics Dashboards & Performance
 
+<img width="915" height="680" alt="image" src="https://github.com/user-attachments/assets/4c9d28d7-e225-4cd7-b246-728552b42dbd" />
 
 ### Key Performance Outcomes (Phase 3 Growth)
 * **Active User Growth:** +82.4% (reached 31 baseline users in 7 days)
