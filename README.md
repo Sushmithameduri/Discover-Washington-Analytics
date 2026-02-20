@@ -3,7 +3,7 @@
 > A WordPress-based travel guide website built for Washington State, developed as part of a Web Analytics & Content Strategy course project (IS5320)
 > <img width="1045" height="588" alt="image" src="https://github.com/user-attachments/assets/0186e2b1-e066-47be-849f-fa60dcffca6e" />
 
-
+> **Project Status:** The live WordPress site was officially decommissioned post-launch to reduce hosting costs. This repository serves as a comprehensive case study of the digital behavioral data, GA4 telemetry, and Looker Studio dashboards built for the platform.
 ---
 
 ## 🛠️ Tech Stack
